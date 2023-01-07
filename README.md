@@ -1,6 +1,6 @@
 ## Seven Segment Binary Generator
 
-[seven segment binary generator]()
+[seven segment binary generator](https://7seg-gen.vercel.app)
 
 ## TODO
 
@@ -8,7 +8,9 @@
 
 - [ ] Menambahkan fitur copy untuk semua data biner
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Terimakasih
+
+- NextJs & Vercel 
 
 ## Getting Started
 
