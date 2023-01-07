@@ -1,13 +1,12 @@
 ## Seven Segment Binary Generator
 
-(sadfsad)[]
+[seven segment binary generator]()
 
 ## TODO
 
-[x] Bersih bersih kode
+- [ ] Bersih bersih kode
 
-[x] Menambahkan fitur copy untuk semua data biner
-
+- [ ] Menambahkan fitur copy untuk semua data biner
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
