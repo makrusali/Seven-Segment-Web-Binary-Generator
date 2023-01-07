@@ -47,7 +47,7 @@ export default function ValueCard(props: {
       <h1 className='card-title'>Hex Value</h1>
       <input className='card-bit-value' type="text" value={decToHex(Number.parseInt(decToBin(props.decimalValue, displayProps?.isReverseBit), 2))} onChange={() => { }} />
       <div className='r-bit'>
-        <label htmlFor="reverse-bit">Reverser Bit</label>
+        <label htmlFor="reverse-bit">Reverse Bit</label>
         <input id='reverse-bit' type="checkbox" onChange={(e: ChangeEvent) => {
           const isReverseBit = (e.target as HTMLInputElement).checked;
           const temp: DisplayProps = { ...displayProps, isReverseBit };
